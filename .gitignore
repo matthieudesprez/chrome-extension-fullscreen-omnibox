@@ -3,3 +3,6 @@ node_modules/
 dist/
 tmp/
 .idea
+dist.crx
+dist.pem
+dist.zip

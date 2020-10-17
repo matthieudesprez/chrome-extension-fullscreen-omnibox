@@ -2409,6 +2409,13 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
+rxjs@^7.0.0-beta.7:
+  version "7.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.0.0-beta.8.tgz#dd5df421175a3c5cb5f7c038a01659b8cbc469cc"
+  integrity sha512-rnLwH1WJR67m7p5m+KQNqXd1A+PO/WLZZMd1JuzIRm2AOmhJttBGyDiyanky65rHaYzhEztU1QPak68hm+R4qA==
+  dependencies:
+    tslib "^1.9.0"
+
 safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@^5.1.2, safe-buffer@~5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.0.tgz#b74daec49b1148f88c64b68d49b1e815c1f2f519"

@@ -3,23 +3,12 @@
   "name": "Fullscreen Toolbar URL Access",
   "description": "Access Toolbar URL in Fulllscreen Mode",
   "version": "1.0",
-  "options_ui": {
-    "page": "options.html",
-    "chrome_style": true
-  },
-  "options_page": "options.html",
   "browser_action": {
     "default_icon": "images/icon-16.png",
     "default_popup": "popup.html"
   },
-  "background": {
-    "scripts": [
-      "js/vendor.js",
-      "js/background.js"
-    ],
-    "persistent": false
-  },
   "permissions": [
+    "tabs",
     "storage",
     "history",
     "bookmarks"

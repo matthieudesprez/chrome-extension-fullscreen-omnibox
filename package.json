@@ -10,10 +10,6 @@
   },
   "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
-  },
   "devDependencies": {
     "@types/chrome": "0.0.86",
     "@types/jquery": "^3.3.30",
@@ -24,6 +20,7 @@
     "webpack": "~4.17.2",
     "webpack-cli": "~3.1.0",
     "webpack-merge": "~4.2.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "rxjs": "^7.0.0-beta.7"
   }
 }
