@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Fullscreen Toolbar URL Access",
   "description": "Access Toolbar URL in Fulllscreen Mode",
-  "version": "1.0",
+  "version": "1.1",
   "browser_action": {
     "default_icon": "images/icon-16.png",
     "default_popup": "popup.html"
